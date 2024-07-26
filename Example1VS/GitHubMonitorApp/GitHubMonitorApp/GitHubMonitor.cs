@@ -22,7 +22,7 @@ namespace GitHubMonitorApp
             _logger.LogInformation("Our GitHub Monitor Processed an action");
             string requestBody =  await new StreamReader(req.Body).ReadToEndAsync();
              var data = JsonConvert.DeserializeObject<Rootobject>(requestBody);
-            _logger.LogInformation($"{requestBody}");
+            _logger.LogInformation($" Request {requestBody}");
                  
             return new OkObjectResult(requestBody);
         }
