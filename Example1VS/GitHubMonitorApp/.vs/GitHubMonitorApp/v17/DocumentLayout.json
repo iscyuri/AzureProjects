@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\yvillegas\\Documents\\AZURE\\AzureFunctions\\Example1VS\\GitHubMonitorApp\\",
+  "WorkspaceRootPath": "D:\\Azure\\AzureProyects\\AzureProjects\\Example1VS\\GitHubMonitorApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ACC2ADD9-1DDF-471A-AC5F-A591E21263D9}|GitHubMonitorApp\\GitHubMonitorApp.csproj|c:\\users\\yvillegas\\documents\\azure\\azurefunctions\\example1vs\\githubmonitorapp\\githubmonitorapp\\githubmonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ACC2ADD9-1DDF-471A-AC5F-A591E21263D9}|GitHubMonitorApp\\GitHubMonitorApp.csproj|d:\\azure\\azureproyects\\azureprojects\\example1vs\\githubmonitorapp\\githubmonitorapp\\githubmonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ACC2ADD9-1DDF-471A-AC5F-A591E21263D9}|GitHubMonitorApp\\GitHubMonitorApp.csproj|solutionrelative:githubmonitorapp\\githubmonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ACC2ADD9-1DDF-471A-AC5F-A591E21263D9}|GitHubMonitorApp\\GitHubMonitorApp.csproj|c:\\users\\yvillegas\\documents\\azure\\azurefunctions\\example1vs\\githubmonitorapp\\githubmonitorapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{ACC2ADD9-1DDF-471A-AC5F-A591E21263D9}|GitHubMonitorApp\\GitHubMonitorApp.csproj|d:\\azure\\azureproyects\\azureprojects\\example1vs\\githubmonitorapp\\githubmonitorapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{ACC2ADD9-1DDF-471A-AC5F-A591E21263D9}|GitHubMonitorApp\\GitHubMonitorApp.csproj|solutionrelative:githubmonitorapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ACC2ADD9-1DDF-471A-AC5F-A591E21263D9}|GitHubMonitorApp\\GitHubMonitorApp.csproj|c:\\users\\yvillegas\\documents\\azure\\azurefunctions\\example1vs\\githubmonitorapp\\githubmonitorapp\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{ACC2ADD9-1DDF-471A-AC5F-A591E21263D9}|GitHubMonitorApp\\GitHubMonitorApp.csproj|d:\\azure\\azureproyects\\azureprojects\\example1vs\\githubmonitorapp\\githubmonitorapp\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{ACC2ADD9-1DDF-471A-AC5F-A591E21263D9}|GitHubMonitorApp\\GitHubMonitorApp.csproj|solutionrelative:githubmonitorapp\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -28,37 +28,35 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "serviceDependencies.json",
-              "DocumentMoniker": "C:\\Users\\yvillegas\\Documents\\AZURE\\AzureFunctions\\Example1VS\\GitHubMonitorApp\\GitHubMonitorApp\\Properties\\serviceDependencies.json",
+              "DocumentMoniker": "D:\\Azure\\AzureProyects\\AzureProjects\\Example1VS\\GitHubMonitorApp\\GitHubMonitorApp\\Properties\\serviceDependencies.json",
               "RelativeDocumentMoniker": "GitHubMonitorApp\\Properties\\serviceDependencies.json",
-              "ToolTip": "C:\\Users\\yvillegas\\Documents\\AZURE\\AzureFunctions\\Example1VS\\GitHubMonitorApp\\GitHubMonitorApp\\Properties\\serviceDependencies.json",
+              "ToolTip": "D:\\Azure\\AzureProyects\\AzureProjects\\Example1VS\\GitHubMonitorApp\\GitHubMonitorApp\\Properties\\serviceDependencies.json",
               "RelativeToolTip": "GitHubMonitorApp\\Properties\\serviceDependencies.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-25T15:57:05.629Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-25T15:57:05.629Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\yvillegas\\Documents\\AZURE\\AzureFunctions\\Example1VS\\GitHubMonitorApp\\GitHubMonitorApp\\Properties\\launchSettings.json",
+              "DocumentMoniker": "D:\\Azure\\AzureProyects\\AzureProjects\\Example1VS\\GitHubMonitorApp\\GitHubMonitorApp\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "GitHubMonitorApp\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\yvillegas\\Documents\\AZURE\\AzureFunctions\\Example1VS\\GitHubMonitorApp\\GitHubMonitorApp\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Azure\\AzureProyects\\AzureProjects\\Example1VS\\GitHubMonitorApp\\GitHubMonitorApp\\Properties\\launchSettings.json",
               "RelativeToolTip": "GitHubMonitorApp\\Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-25T15:57:05.189Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-25T15:57:05.189Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "GitHubMonitor.cs",
-              "DocumentMoniker": "C:\\Users\\yvillegas\\Documents\\AZURE\\AzureFunctions\\Example1VS\\GitHubMonitorApp\\GitHubMonitorApp\\GitHubMonitor.cs",
+              "DocumentMoniker": "D:\\Azure\\AzureProyects\\AzureProjects\\Example1VS\\GitHubMonitorApp\\GitHubMonitorApp\\GitHubMonitor.cs",
               "RelativeDocumentMoniker": "GitHubMonitorApp\\GitHubMonitor.cs",
-              "ToolTip": "C:\\Users\\yvillegas\\Documents\\AZURE\\AzureFunctions\\Example1VS\\GitHubMonitorApp\\GitHubMonitorApp\\GitHubMonitor.cs",
+              "ToolTip": "D:\\Azure\\AzureProyects\\AzureProjects\\Example1VS\\GitHubMonitorApp\\GitHubMonitorApp\\GitHubMonitor.cs",
               "RelativeToolTip": "GitHubMonitorApp\\GitHubMonitor.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAUwBgAAAAAAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBkAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-24T19:31:55.541Z",
               "EditorCaption": ""
