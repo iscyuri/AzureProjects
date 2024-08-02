@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Example2VS": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7076",
+      "launchBrowser": false
+    }
+  }
+}
